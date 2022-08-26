@@ -1,0 +1,19 @@
+.corpo{
+  color: white;
+}
+
+.corpo__caixa {
+  display: flex;
+  align-items: center;
+}
+
+.corpo__caixa_tipo {
+  font-size: 24px;
+  padding: 0 5em 3em 5em;
+  font-weight: 600;
+}
+
+.corpo__caixa_imagem {
+  width: 10em;
+  padding-bottom: 5em;
+}
