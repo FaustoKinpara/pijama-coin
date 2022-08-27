@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pijama-coin/static/css/main.793e8406.css",
+    "main.js": "/pijama-coin/static/js/main.4b74b324.js",
+    "static/media/nota1.png": "/pijama-coin/static/media/nota1.04c605f4e102db159ce1.png",
+    "static/media/nota2.png": "/pijama-coin/static/media/nota2.0b1b65971f6d564c944f.png",
+    "static/media/coin1.png": "/pijama-coin/static/media/coin1.bac4e9bb2bceae8f8236.png",
+    "static/media/coin.png": "/pijama-coin/static/media/coin.e5d477458ddd2ea7b7d4.png",
+    "index.html": "/pijama-coin/index.html",
+    "main.793e8406.css.map": "/pijama-coin/static/css/main.793e8406.css.map",
+    "main.4b74b324.js.map": "/pijama-coin/static/js/main.4b74b324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793e8406.css",
+    "static/js/main.4b74b324.js"
+  ]
+}
